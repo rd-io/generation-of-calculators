@@ -15,3 +15,17 @@ The purpose of using vanilla tools is to learn how to make a single page app wit
 While I have used JavaScript frameworks, I wanted to make my own single page app, and my own simple state management system to practice DOM manipulation.
 
 The calculator brand, for example, does not change if switching from a TI to TI calculator, or an HP to HP calculator. This is done by an object managing the state of what brand is showing. This way, only the content that needs to change will be.
+
+---
+
+## How to View:
+
+Dependencies:
+- A web browser, such as Chrome or Firefox.
+<br>
+
+Clone this repo:
+- `git clone https://github.com/rd-io/generation-of-calculators.git`
+<br>
+
+Using your favorite web browswer, open the `index.html` file inside of the project folder.
